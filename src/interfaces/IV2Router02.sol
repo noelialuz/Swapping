@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity 0.8.24;
+pragma solidity 0.8.35;
 
 interface IV2Router02 {
     function swapExactTokensForTokens(

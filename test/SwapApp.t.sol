@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 // For testing in Arbitrum forked: forge test -vvvv --fork-url https://arb1.arbitrum.io/rpc --match-test
 
-pragma solidity 0.8.24;
+pragma solidity 0.8.35;
 
 import "forge-std/Test.sol";
 import "../src/SwapApp.sol";
